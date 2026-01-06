@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/<ORG_NAME>/.github/main/assets/automind-logo.png"
        alt="Automind Infotech Private Ltd"
-       width="220"/>
+       width="260"/>
 </p>
 
 <h1 align="center">Automind Infotech Private Ltd</h1>
